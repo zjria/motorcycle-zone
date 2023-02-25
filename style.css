@@ -1,0 +1,28 @@
+
+.navbar-nav {
+    --bs-nav-link-color: rgb(0 0 0);
+    --bs-nav-link-hover-color: rgb(0 0 0);
+    --bs-nav-link-disabled-color: rgb(0 0 0); 
+}
+.slider-btn {
+    background-color: rebeccapurple;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.card-footer {
+    padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+    color: var(--bs-card-cap-color);
+    background-color: #fff;
+    border: none;
+}
+ul.d-flex {
+    padding: 0px;
+}
+ul li{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+.footer-content ul{
+    padding: 0px;
+}
